@@ -82,7 +82,7 @@ class _MainPageState extends State<MainPage> {
 
         return Scaffold(
           appBar: AppBar(
-            title: Text('ToDo App'),
+            title: Text('Mini Challenge'),
           ),
           body: Row(
             children: [
